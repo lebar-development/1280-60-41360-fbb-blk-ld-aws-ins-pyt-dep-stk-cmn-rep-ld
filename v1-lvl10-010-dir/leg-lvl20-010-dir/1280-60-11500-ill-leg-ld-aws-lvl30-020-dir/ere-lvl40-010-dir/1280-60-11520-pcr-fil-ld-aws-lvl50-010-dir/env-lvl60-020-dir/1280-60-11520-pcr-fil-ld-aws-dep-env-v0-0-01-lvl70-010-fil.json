@@ -1,0 +1,5 @@
+{
+  "resourceMetadataKEY": "yes",
+  "ServicePlatformKEY": "jump",
+  "ec2InstanceNameKEY": "jump-block-one-1280-50-inc-ld-aws"
+}

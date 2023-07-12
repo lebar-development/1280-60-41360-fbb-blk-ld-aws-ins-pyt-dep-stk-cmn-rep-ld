@@ -1,0 +1,10 @@
+{
+  "Host": "github.com",
+  "HostName": "github.com",
+  "IdentitiesOnly": "Yes",
+  "ServerAliveInterval": "175",
+  "ServerAliveCountMax": "20",
+  "PubkeyAcceptedKeyTypes": "+ssh-rsa",
+  "HostkeyAlgorithms": "+ssh-rsa"
+}
+

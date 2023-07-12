@@ -1,0 +1,11 @@
+{
+  "Host": "url",
+  "HostName": "url",
+  "User": "ssh-id",
+  "IdentityFile": "~/.ssh/private-key-file-name",
+  "IdentitiesOnly": "yes/no",
+  "ServerAliveInterval": "XXX",
+  "ServerAliveCountMax": "XXX",
+  "PubkeyAcceptedKeyTypes": "+ssh-rsa",
+  "HostkeyAlgorithms": "+ssh-rsa"
+}
