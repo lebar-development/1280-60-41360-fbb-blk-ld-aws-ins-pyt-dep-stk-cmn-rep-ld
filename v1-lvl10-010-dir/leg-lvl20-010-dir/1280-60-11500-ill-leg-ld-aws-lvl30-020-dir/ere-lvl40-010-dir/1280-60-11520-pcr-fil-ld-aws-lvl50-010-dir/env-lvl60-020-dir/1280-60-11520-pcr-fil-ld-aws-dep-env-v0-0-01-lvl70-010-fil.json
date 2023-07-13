@@ -1,5 +1,8 @@
 {
   "resourceMetadataKEY": "yes",
-  "ServicePlatformKEY": "jump",
-  "ec2InstanceNameKEY": "jump-block-one-1280-50-inc-ld-aws"
+  "webServicePlatformKEY": "AWS",
+  "accountNumberKEY": "115289452667",
+  "regionKEY": "eu-west-2",
+  "serviceKEY": "EC2",
+  "username": "dayjackel"
 }
