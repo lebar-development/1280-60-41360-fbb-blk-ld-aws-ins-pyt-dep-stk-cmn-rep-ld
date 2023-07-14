@@ -1,4 +1,5 @@
 {
+  "resourceMetadataKEY": "yes",
   "Host": "url",
   "HostName": "url",
   "User": "ssh-id",
