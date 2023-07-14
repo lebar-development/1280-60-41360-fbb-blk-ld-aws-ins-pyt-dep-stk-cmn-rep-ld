@@ -1,6 +1,9 @@
 {
+  "resourceMetadataKEY": "yes",
   "Host": "github.com",
   "HostName": "github.com",
+  "User": "ssh-id",
+  "IdentityFile": "~/.ssh/private-key-file-name",
   "IdentitiesOnly": "Yes",
   "ServerAliveInterval": "175",
   "ServerAliveCountMax": "20",
